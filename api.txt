@@ -1,0 +1,7 @@
+ 
+
+  baseURL: "https://api.themoviedb.org/3",
+
+  const base_url = "https://image.tmdb.org/t/p/original/";
+
+  
